@@ -92,7 +92,7 @@ public class SetStudy {
         set1.add(3);
         System.out.println("set1 : " + set1); // set1 : [1, 2, 3]
 
-        set1.remove(1);
+        set1.remove(1); // index를 인식하는 것이 아니라 값을 인식한다.
         System.out.println("set1 : " + set1); // set1 : [2, 3]
         System.out.println("set1.size() : " + set1.size()); // set1.size() : 2
         System.out.println("set1.contains(2) : " + set1.contains(2)); // set1.contains(2) : true
