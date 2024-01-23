@@ -1,6 +1,6 @@
 package algorithm.inflearn.intro.recursive;
 
-// 이진수 출력(재귀)
+// 7-2. 이진수 출력(재귀)
 public class BinaryOutput {
     public static void main(String[] args) {
         BinaryOutput T = new BinaryOutput();
