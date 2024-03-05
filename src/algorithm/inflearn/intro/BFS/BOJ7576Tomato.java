@@ -1,10 +1,10 @@
-package algorithm.inflearn.intro.DFS;
+package algorithm.inflearn.intro.BFS;
 
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-// 백준 7576 토마토 (DFS) - gold5
+// 백준 7576 토마토 (BFS) - gold5
 class Point2{
     int x;
     int y;
