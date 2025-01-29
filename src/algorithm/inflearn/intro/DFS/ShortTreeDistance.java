@@ -1,7 +1,5 @@
 package algorithm.inflearn.intro.DFS;
 
-import javax.xml.soap.Node;
-
 // 7-9. Tree 말단 노드까지의 가장 짧은 경로(DFS) 원래 최단 경로는 BFS가 맞음
 class Node7_9 {
     int data;
